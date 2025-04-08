@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+dist/
+package-lock.json
+
+# WebdriverIO / Appium
+logs/
+*.log
+appium.log
+mobile/
+
+# Environment variables
+.env
+
+
